@@ -1,0 +1,28 @@
+
+1.   A software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows 
+2.  Version control is also known as Revision control a.k.a. source control, is a process to manage a collection of program code and changes that provide you with many capabilities
+3.  GitHub is a place where project managers and developers coordinate, track, and update their work so that projects are transparent and stay on schedule.
+4.  Some popular Git hosting services are:
+
+     Bitbucket.
+     GitLab.
+     Perforce.
+     Beanstalk.
+     Amazon AWS CodeCommit.
+     Codebase.
+5.  Types of Version Control Systems:
+       Local Version Control Systems
+       Centralized Version Control Systems
+       Distributed Version Control Systems
+6.    1. Performance Git performs very strongly and reliably when compared to other version control systems. New code changes can be easily committed, version branches can be effortlessly compared and merged, and code can also be optimized to perform better. ...
+      2. Security Git is designed specially to maintain the integrity of source code. ...
+      3. Flexibility ...
+      4. Wide acceptance ...
+      5. Quality open source project ...
+7.   Repositories in GIT contain a collection of files of various different versions of a Project. These files are imported from the repository into the local server of the user for further updations and modifications in the content of the file. 
+8.    Make a directory to keep the project in.
+      Go to the newly created directory.
+      Type git init to get started.
+      Make a program.
+      To add the files, use git add (see the typical use page).
+      git commit is the command to use.
