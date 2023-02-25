@@ -1,0 +1,8 @@
+1.  A computer is an elctronics device which takes input and after some process it gives output.
+2.  A computer short term memory where the data that the processor is currently using is stored.
+3.  HARD DISK DRIVE
+4.  THE KEYBOARD
+5.  MONITOR, PRINTER, SPEAKER, PLATER e.t.c .
+6.  MOUSE
+7.  MACHINE LANGUAGE
+8.  KEYBOARD,MOUSE,SCANNER,JOYSTIC e.t.c
