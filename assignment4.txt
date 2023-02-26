@@ -1,0 +1,39 @@
+1.  Open Terminal application,
+    Type: $ git --version,
+    You should see the installed git version details on the console: git version 2.6.1
+
+2.  Open a project folder in Visual Studio Code. You can do this by going to File > Open (Mac) or File > Open Folder (Windows), navigate to the folder, select it, and hit Open (Mac) or Select Folder (Windows).
+    Open the Source Control panel on the left of the window.
+    In the Source Control panel click Initialize Repository
+
+3.  To identify your email address in almost any email program or service, make sure your email is functioning properly and then open the program or service and:
+
+    Start a new email message.
+    Look for a line that begins with From. It contains your email address.
+    If you have more than one email address configured for sending, they usually show up as menu choices in the From line when you compose an email. All the email addresses listed are yours. You can use any of them.
+
+4.  The basic syntax is as follows:
+
+    git add <path> : Use git add to stage a specific file or directory.
+    git add . : Stage all files and directories in the working tree unless specified otherwise in .gitignore
+    git add -p : Use an interactive mode to choose which hunks of changes to stage.
+
+5.  Simply remove a file Scenario 1: an unused file needs to be removed: ...
+     Remove files from the staging area Scenario 2: wrong files were added, but they were not yet committed, then a simple reset will remove the files from the staging area, but doesn’t actually delete the files: ...
+     Remove files that should’ve been ignored ...
+     Nuke all made changes for good ...
+
+6.  To make changes, you:
+
+    Create your own branch, which is a snapshot of the default branch at the time you create it.
+    Make changes and push them to your branch. Each push creates a commit.
+    When you’re ready, merge your branch into the default branch.
+
+7.  git push
+
+8.  
+git clone	                                                             git pull
+1. Used to set up a local repository.	                               1. Used to sync remote and local repositories.
+2. Make a copy of your remote 
+repository and save it to your local machine.	                         2. Fetch and merge the latest changes from a remote repository to your local repository.
+3. Used once in a project.	                                           3. Used several times in a project.
