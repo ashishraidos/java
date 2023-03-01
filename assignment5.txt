@@ -1,0 +1,34 @@
+1.  A programming language is a way of telling computers what to do using symbols and rules that humans can understand.
+2.  Legibility and maintainability Some languages are easier for a human being to read, which makes it easier for one programmer to collaborate on another programmer's code. ...
+    Performance Some languages are interpreted, and some are compiled. ...
+    Specific use cases Often, languages are especially good at writing specific types of programs. ...
+    Ease of prototyping ...
+    Available libraries ...
+    Security ...
+    Community support ...
+3.  The primary objective of Java programming language creation was to make it portable, simple and secure programming language. Apart from this, there are also some excellent features which
+ play an important role in the popularity of this language. The features of Java are also known as Java buzzwords.
+
+    A list of the most important features of the Java language is given below.
+
+    Java Features
+    Simple
+    Object-Oriented
+    Portable
+    Platform independent
+    Secured
+    Robust
+    Architecture neutral
+    Interpreted
+    High Performance
+    Multithreaded
+    Distributed
+    Dynamic
+
+4.  Object is an instance of a class. All data members and member functions of the class can be accessed with the help of objects. When a class is defined, no memory is allocated, but memory
+    is allocated when it is instantiated (i.e. an object is created). For Example, considering the objects for the class Account are SBI Account, ICICI account, etc.
+5.  Class is a detailed description, the definition, and the template of what an object will be. But it is not the object itself. Also, what we call, a class is the building block that leads 
+    to Object-Oriented Programming. It is a user-defined data type, that holds its own data members and member functions, which can be accessed and used by creating an instance of that class.
+    It is the blueprint of any object. Once we have written a class and defined it, we can use it to create as many objects based on that class as we want. 
+6.  In Java programs, the point from where the program starts its execution or simply the entry point of Java programs is the main() method. Hence, it is one of the most important methods 
+    of Java and having a proper understanding of it is very important.
